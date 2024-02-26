@@ -5,5 +5,5 @@ variable "billing_account" {
 
 variable "folder_id" {
   type        = string
-  description = "value of org id"
+  description = "value of folder id"
 }
