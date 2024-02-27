@@ -1,6 +1,6 @@
 locals {
   google = [
-    "roles/storage.admin",
+    "roles/editor",
   ]
 }
 
